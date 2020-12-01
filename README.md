@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 # Citi Bike Analytics - Tableau Worksheets, Story Boards, and Dashboards
 
 ## Background
 
 
+=======
+# Citi Bike Analytics – Tableau Worksheets, Story Boards, and Dashboards
+
+## Background
+
+>>>>>>> f213c53143773b8b0bd4484bcde63c52da267cb3
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
 Data found in the Citi Bike Trip History Logs will be aggregated in order to find some unexpected phenomena.
@@ -17,7 +24,11 @@ Data found in the Citi Bike Trip History Logs will be aggregated in order to fin
 
 
 
+<<<<<<< HEAD
 ### Copyright
 
 Data Boot Camp � 2019. All Rights Reserved.
+=======
+Data Boot Camp © 2019. All Rights Reserved.
+>>>>>>> f213c53143773b8b0bd4484bcde63c52da267cb3
 
